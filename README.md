@@ -1,6 +1,6 @@
 # G-kberk-Hoca
 Merhaba ben Faruk
 # Listeler
-## Karpuz
+## Muz
 ## Armut
-##Erik
+## Erik
